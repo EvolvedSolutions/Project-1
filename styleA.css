@@ -1,4 +1,9 @@
 body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.box-container{
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -28,6 +33,8 @@ font-size: 40px;
   background-color: #eeeff2; 
 }
 .box:nth-last-child(1) {
+    display: flex;
+    flex-direction: column;
   background-color: #687291;
   border: 4px solid black;  
   justify-content: center;
