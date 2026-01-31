@@ -24,7 +24,7 @@ body {
     margin-right: 10px;
 }
 .box:hover {
-    cursor:grab;
+    cursor: pointer;
     background-color: yellow;
     color: goldenrod;
 }
