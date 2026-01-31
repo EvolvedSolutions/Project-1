@@ -5,9 +5,9 @@ body{
 }
 .box-container{
 display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: space-between;
+flex-direction: column;     /* Stack boxes vertically*/
+align-items: center;        /* Center horizontally*/
+justify-content: space-between; /* Even Vertical Spacing */
 height: 100vh;
 width: 100vw;
 font-family: Tahoma, serif;
