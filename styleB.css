@@ -6,7 +6,7 @@ body {
 .box-container {
     display: flex;
     flex-direction: row;
-    align-items: top;
+    align-items: flex-start;
     height: 100vh;
     width: 100vw;
     font-family: Tahoma, serif;
